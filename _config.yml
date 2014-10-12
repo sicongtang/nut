@@ -54,11 +54,14 @@ google_plus:
 
 links:
 - name: Github
-  url: https://github.com/
+  url: https://github.com/sicongtang
   logo: github
 - name: Google+
-  url: https://plus.google.com/
+  url: https://plus.google.com/+BobbyTangSH
   logo: google-plus
+- name: Linkedin
+  url: http://cn.linkedin.com/pub/bobby-tang/43/3b9/a2
+  logo: linkedin
 
 feed:
   type: atom
