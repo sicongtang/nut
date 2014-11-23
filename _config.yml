@@ -47,7 +47,7 @@ post_widgets:
 - post_tag
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-57015869-1
 favicon: /favicon.ico
 twitter:
 google_plus:
